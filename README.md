@@ -1,0 +1,1 @@
+# Sports_Management_App_All3SupabaseErrorHandlingReccs
